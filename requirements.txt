@@ -1,0 +1,6 @@
+streamlit
+pymongo
+dnspython
+python-dotenv
+openai
+Pillow
